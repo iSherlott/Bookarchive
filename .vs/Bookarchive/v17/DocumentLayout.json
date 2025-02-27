@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aplications\\CSharp\\bookarchive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8795B076-1C58-448C-8EAD-CF5D79A46058}|Application\\Application.csproj|c:\\aplications\\csharp\\bookarchive\\application\\handlers\\bookshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8795B076-1C58-448C-8EAD-CF5D79A46058}|Application\\Application.csproj|solutionrelative:application\\handlers\\bookshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC1D319-0FA4-4B58-BB97-0A2DE4DC4B05}|API\\API.csproj|c:\\aplications\\csharp\\bookarchive\\api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC1D319-0FA4-4B58-BB97-0A2DE4DC4B05}|API\\API.csproj|solutionrelative:api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA39047A-8547-4CAA-A6FA-944E7755162F}|IoC\\IoC.csproj|c:\\aplications\\csharp\\bookarchive\\ioc\\nativeinjectorbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA39047A-8547-4CAA-A6FA-944E7755162F}|IoC\\IoC.csproj|solutionrelative:ioc\\nativeinjectorbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBFE9F1-47C3-43F8-8C46-62BCE974EB48}|Infrastructure\\Infrastructure.csproj|c:\\aplications\\csharp\\bookarchive\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBFE9F1-47C3-43F8-8C46-62BCE974EB48}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Aplications\\CSharp\\bookarchive\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Aplications\\CSharp\\bookarchive\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:48:16.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NativeInjectorBootStrapper.cs",
+              "DocumentMoniker": "C:\\Aplications\\CSharp\\bookarchive\\IoC\\NativeInjectorBootStrapper.cs",
+              "RelativeDocumentMoniker": "IoC\\NativeInjectorBootStrapper.cs",
+              "ToolTip": "C:\\Aplications\\CSharp\\bookarchive\\IoC\\NativeInjectorBootStrapper.cs",
+              "RelativeToolTip": "IoC\\NativeInjectorBootStrapper.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:27.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Aplications\\CSharp\\bookarchive\\API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Aplications\\CSharp\\bookarchive\\API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "API\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:00:11.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksHandler.cs",
+              "DocumentMoniker": "C:\\Aplications\\CSharp\\bookarchive\\Application\\Handlers\\BooksHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Handlers\\BooksHandler.cs",
+              "ToolTip": "C:\\Aplications\\CSharp\\bookarchive\\Application\\Handlers\\BooksHandler.cs",
+              "RelativeToolTip": "Application\\Handlers\\BooksHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:48:43.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

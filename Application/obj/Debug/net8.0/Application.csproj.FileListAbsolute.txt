@@ -1,0 +1,15 @@
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Aplications\CSharp\bookarchive\Application\bin\Debug\net8.0\Application.deps.json
+C:\Aplications\CSharp\bookarchive\Application\bin\Debug\net8.0\Application.dll
+C:\Aplications\CSharp\bookarchive\Application\bin\Debug\net8.0\Application.pdb
+C:\Aplications\CSharp\bookarchive\Application\bin\Debug\net8.0\Core.dll
+C:\Aplications\CSharp\bookarchive\Application\bin\Debug\net8.0\Core.pdb
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\Application.dll
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\Application.pdb
+C:\Aplications\CSharp\bookarchive\Application\obj\Debug\net8.0\ref\Application.dll
